@@ -1,0 +1,9 @@
+{
+  "name": "openaq-cleanup-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.3.0"
+  }
+}
